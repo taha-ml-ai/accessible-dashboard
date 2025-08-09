@@ -1,0 +1,16 @@
+﻿# Ignore Sublime Text files
+*.sublime-workspace
+*.sublime-project
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build/dist files
+dist/
+build/
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
