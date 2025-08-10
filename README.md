@@ -17,7 +17,7 @@ Perfect for monitoring users, stats, and actions in a professional interface.
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/accessible-dashboard.git
+git clone https://github.com/taha-ml-ai/accessible-dashboard.git
 cd accessible-dashboard
 npm install
 npm start
