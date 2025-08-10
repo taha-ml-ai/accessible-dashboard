@@ -56,7 +56,7 @@ export default function App() {
       <AppBar position="static" color="primary">
         <Toolbar>
           <Typography variant="h6" sx={{ flexGrow: 1 }}>
-            Accessible Dashboard
+            Users Dashboard
           </Typography>
           <SunIcon aria-label="Toggle light/dark mode" />
         </Toolbar>

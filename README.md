@@ -1,4 +1,4 @@
-# Accessible Dashboard
+# Users Dashboard
 
 A responsive, accessible, and animated dashboard built with **React**, **Framer Motion**, and **ARIA best practices**.  
 This project demonstrates **UI accessibility**, **modern animations**, and **real API integration**, making it perfect for portfolios and client demos.
@@ -75,7 +75,7 @@ This project demonstrates **UI accessibility**, **modern animations**, and **rea
 ## 📦 Installation & Running Locally
 
 ```bash
-git clone https://github.com/taha-ml-ai/accessible-dashboard.git
+git clone https://github.com/taha-ml-ai/users-dashboard.git
 cd accessible-dashboard
 npm install
 npm start
