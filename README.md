@@ -7,7 +7,7 @@ This project demonstrates **UI accessibility**, **modern animations**, and **rea
 
 ## 🚀 Live Demo
 
-[**View Live on Netlify**](https://creative-semolina-086301.netlify.app/)
+[**View Live on Netlify**](https://users-dashboard-react.netlify.app/)
 
 ---
 
