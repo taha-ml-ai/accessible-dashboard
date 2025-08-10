@@ -43,30 +43,34 @@ This project demonstrates **UI accessibility**, **modern animations**, and **rea
 ## 📂 Project Structure
 
 /public
-  index.html                 # Main HTML file
-  favicon.ico                # Site icon
-  /assets                    # Static images, icons, fonts
+  index.html                 
+  favicon.ico               
+  /assets                    
 
 /src
-  /api                       # API calls and data fetching logic
-    data.js                  # Sample/mock data
-  /animations                # Animation variants and helpers
+  /api                      
+    data.js                 
+  /animations               
     animations.js
-  /components                # Reusable UI components
+
+    
+  /components               
     StatCard.jsx
     UserTable.jsx
     QuickActions.jsx
-  /styles                    # Global and component-specific styles
+
+    
+  /styles                 
     index.css
     animations.css
-  App.jsx                    # Root React component
-  index.js                   # React app entry point
-  theme.js                   # MUI theme configuration
+  App.jsx                   
+  index.js                
+  theme.js                  
 
-/.gitignore                  # Git ignore rules
-/package.json                # Project metadata and dependencies
-/package-lock.json           # Exact dependency versions
-/README.md                   # Project overview and docs
+/.gitignore                
+/package.json               
+/package-lock.json          
+/README.md                 
 
 
 
